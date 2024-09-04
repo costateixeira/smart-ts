@@ -1,0 +1,23 @@
+Ts
+=========================================
+
+Generic: line 0, col 0, Warning - The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide (NOTFOUND)
+/github/workspace/fsh-generated/resources/CodeSystem-ICD11.json: line 0, col 0, Error - Conformance resource /github/workspace/fsh-generated/resources/CodeSystem-ICD11.json - the canonical URL (http://smart.who.int/ts/CodeSystem/ICD11) does not match the URL (http://id.who.int/icd/release/11/mms) (INVALID)
+/github/workspace/fsh-generated/resources/CodeSystem-ICD11.json: line 1, col 24601, Warning - ValueSet 'http://hl7.org/fhir/ValueSet/publication-status|4.0.1' not found (CODEINVALID)
+/github/workspace/fsh-generated/resources/CodeSystem-ICD11.json: line 1, col 24826, Warning - ValueSet 'http://hl7.org/fhir/ValueSet/codesystem-hierarchy-meaning|4.0.1' not found (CODEINVALID)
+/github/workspace/fsh-generated/resources/CodeSystem-ICD11.json: line 1, col 24847, Warning - ValueSet 'http://hl7.org/fhir/ValueSet/codesystem-content-mode|4.0.1' not found (CODEINVALID)
+/github/workspace/fsh-generated/resources/CodeSystem-ICD11.json: line 1, col 24956, Warning - ValueSet 'http://hl7.org/fhir/ValueSet/concept-property-type|4.0.1' not found (CODEINVALID)
+/github/workspace/fsh-generated/resources/CodeSystem-ICD11.json: line 1, col 34707, Warning - value should not start or finish with whitespace ' Pertussis vaccines' (INVALID)
+/github/workspace/fsh-generated/resources/CodeSystem-ICD11.json: line 1, col 39499, Warning - value should not start or finish with whitespace 'Typhoid-paratyphoid vaccines \u00a0 ' (INVALID)
+/github/workspace/fsh-generated/resources/CodeSystem-ICD11.json: line 1, col 39654, Warning - value should not start or finish with whitespace 'Varicella, live attenuated ' (INVALID)
+/github/workspace/fsh-generated/resources/CodeSystem-ICD11.json: line 1, col 39704, Warning - value should not start or finish with whitespace 'Varicella, live attenuated \u00a0 ' (INVALID)
+/github/workspace/fsh-generated/resources/CodeSystem-ICD11.json: line 1, col 41120, Warning - value should not start or finish with whitespace 'COVID-19 vaccine, live attenuated virus ' (INVALID)
+/github/workspace/fsh-generated/resources/CodeSystem-ICD11.json: line 0, col 0, Error - URL Mismatch http://smart.who.int/ts/CodeSystem/ICD11 vs http://id.who.int/icd/release/11/mms (BUSINESSRULE)
+/github/workspace/fsh-generated/resources/ImplementationGuide-smart.who.int.ts.json: line 1, col 108, Error - Canonical URLs must be absolute URLs if they are not fragment references (SMARTImplementationGuide) (INVALID)
+/github/workspace/fsh-generated/resources/ImplementationGuide-smart.who.int.ts.json: line 1, col 14481, Warning - Profile reference 'SMARTImplementationGuide' has not been checked because it could not be found, and the validator is set to not fetch unknown profiles (STRUCTURE)
+
+err = 3, warn = 14, info = 0
+IG Publisher Version: 1.6.20
