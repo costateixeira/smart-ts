@@ -1,0 +1,14 @@
+{
+    "package-id" : "smart.who.int.ts",
+    "title" : "SMART TS", 
+    "category" : "base",
+    "introduction" : "SMART TS Implementation Guide",
+    "version" : "0.1.0",
+    "desc" : "0.1.0 draft release",
+    "mode" : "milestone",    
+    "path" : "http://smart.who.int/ts/0.1.0",
+    "ci-build": "http://worldhealthorganization.github.io/smart-ts",    
+    "first": true,
+    "status" : "draft",
+    "sequence" : "Releases"
+  }
